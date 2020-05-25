@@ -1,0 +1,13 @@
+DROP TABLE "Użytkownicy";
+DROP TABLE "Hotele ";
+DROP TABLE "Adresy";
+DROP TABLE "Ośrodki_Wczasowe";
+DROP TABLE "Mieszkanie_na_wynajem";
+DROP TABLE "Rezerwacje";
+DROP TABLE "Adresy-atrakcje";
+DROP TABLE "Lokal";
+DROP TABLE "Udogodnienia";
+DROP TABLE "Historia_rezerwacji";
+DROP TABLE "Wyżywienie";
+DROP TABLE "Informacje_przeglądania";
+DROP TABLE "Atrakcje_w_mieście_odległość";
